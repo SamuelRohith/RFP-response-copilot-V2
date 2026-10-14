@@ -10,3 +10,5 @@ data/rfp/
 data/extracted/
 data/chunks/
 .pytest_cache/
+output/
+tmp/
